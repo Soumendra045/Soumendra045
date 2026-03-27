@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I'm currently working on ClaudeEye — an AI-powered monitoring & automation platform<br>👯 I'm looking to collaborate on AI-powered tools & SaaS products<br>🤝 I'm looking for help with scaling AI products & go-to-market strategies<br>🌱 I'm currently learning Agentic AI, LlamaIndex & building autonomous systems<br>💬 Ask me about FastAPI, LLM integrations, Ollama, Groq & AI automation<br>⚡ Fun fact: I built an AI team that codes, creates content & manages tasks — all autonomously
+💫 About Me:
+🔭 I'm currently building AI-powered backend systems and automation tools using FastAPI & Django
+👯 I'm looking to collaborate on AI-driven applications, backend systems & SaaS products
+🤝 I'm looking for help with scaling backend architectures & deploying AI solutions in production
+🌱 I'm currently learning Agentic AI, LangGraph & advanced RAG systems with LLMs
+💬 Ask me about FastAPI, Django REST APIs, LLM integrations, LangChain & backend development
+⚡ Fun fact: I build scalable APIs and integrate AI models to automate real-world workflows
 
 
 ## 🌐 Socials:
