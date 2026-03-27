@@ -1,10 +1,15 @@
-💫 About Me:
-🔭 I'm currently building AI-powered backend systems and automation tools using FastAPI & Django
-👯 I'm looking to collaborate on AI-driven applications, backend systems & SaaS products
-🤝 I'm looking for help with scaling backend architectures & deploying AI solutions in production
-🌱 I'm currently learning Agentic AI, LangGraph & advanced RAG systems with LLMs
-💬 Ask me about FastAPI, Django REST APIs, LLM integrations, LangChain & backend development
-⚡ Fun fact: I build scalable APIs and integrate AI models to automate real-world workflows
+# 💫 About Me:
+<br><br>🔭 I'm currently building AI-powered backend systems and automation tools using FastAPI & Django<br><br>👯 I'm looking to collaborate on AI-driven applications, backend systems & SaaS products<br><br>🤝 I'm looking for help with scaling backend architectures & deploying AI solutions in production<br><br>🌱 I'm currently learning Agentic AI, LangGraph & advanced RAG systems with LLMs<br><br>💬 Ask me about FastAPI, Django REST APIs, LLM integrations, LangChain & backend development<br><br>⚡ Fun fact: I build scalable APIs and integrate AI models to automate real-world workflows
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Soumendra045&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Soumendra045&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🌐 Socials:
