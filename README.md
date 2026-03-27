@@ -1,27 +1,6 @@
 # 💫 About Me:
 <br>🔭 I'm currently building AI-powered backend systems and automation tools using FastAPI & Django<br>👯 I'm looking to collaborate on AI-driven applications, backend systems & SaaS products<br>🤝 I'm looking for help with scaling backend architectures & deploying AI solutions in production<br>🌱 I'm currently learning Agentic AI, LangGraph & advanced RAG systems with LLMs<br>💬 Ask me about FastAPI, Django REST APIs, LLM integrations, LangChain & backend development<br>⚡ Fun fact: I build scalable APIs and integrate AI models to automate real-world workflows
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Soumendra045&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Soumendra045&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Soumendra045&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumendra045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Soumendra045&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumendra___09)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumendra-rout-b0768531b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumendra096@gmail.com) 
 
